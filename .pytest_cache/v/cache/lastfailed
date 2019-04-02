@@ -1,0 +1,19 @@
+{
+  "Tests/RegisterTest.py::test_register[10]": true,
+  "Tests/RegisterTest.py::test_register[11]": true,
+  "Tests/RegisterTest.py::test_register[12]": true,
+  "Tests/RegisterTest.py::test_register[14]": true,
+  "Tests/RegisterTest.py::test_register[4]": true,
+  "Tests/RegisterTest.py::test_register[6]": true,
+  "Tests/RegisterTest.py::test_register[7]": true,
+  "Tests/RegisterTest.py::test_register[8]": true,
+  "Tests/RegisterTest.py::test_register[9]": true,
+  "Tests/test_DeleteCustomerTest.py::test_deletecustomer[2241]": true,
+  "Tests/test_DeleteCustomerTest.py::test_deletecustomer[27445]": true,
+  "Tests/test_EditCustomserTest.py::test_register[98795]": true,
+  "Tests/test_FundTransferTest.py::test_fund_transfer[48748-48876]": true,
+  "Tests/test_MiniStatementTest.py::test_mini_statement[48748]": true,
+  "Tests/test_NewAccountTest.py::testnewAccount": true,
+  "Tests/test_NewAccountTest.py::testnewAccount[98795]": true,
+  "Tests/test_RegisterTest.py::testnewAccount[99032]": true
+}

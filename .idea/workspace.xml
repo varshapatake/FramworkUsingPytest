@@ -1,0 +1,743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f675c7a5-78a8-46e4-80e1-1b9967362077" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="PyTest" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="databseconnector.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/DatabaseConnector/databseconnector.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="30" column="22" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BalanaceEnquiry.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/pageObjects/BalanaceEnquiry.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="43" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CostumizeStatement.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/pageObjects/CostumizeStatement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_BalanceEnquiryTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tests/test_BalanceEnquiryTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editaccount.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/pageObjects/editaccount.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_EditAccountTest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tests/test_EditAccountTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pytest" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pytest">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>input()</find>
+      <find>ConnectCustomer</find>
+      <find>oRadioButton</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/pageObjects/getcustomerid.py" />
+        <option value="$PROJECT_DIR$/Tests/LogoutTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/login.py" />
+        <option value="$PROJECT_DIR$/lib/DatabaseConnector/newcustomer.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/logout.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/check.py" />
+        <option value="$PROJECT_DIR$/Tests/loginTest.py" />
+        <option value="$PROJECT_DIR$/Tests/DeleteCustomerTest.py" />
+        <option value="$PROJECT_DIR$/Tests/EditAccountTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/editaccount.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/editcustomer.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/deletecustomer.py" />
+        <option value="$PROJECT_DIR$/lib/DatabaseConnector/databseconnector.py" />
+        <option value="$PROJECT_DIR$/Tests/EditCustomserTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/newaccount.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/DeleteAccount.py" />
+        <option value="$PROJECT_DIR$/Tests/DeleteAccounttest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/Deposite.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/Withdrawal.py" />
+        <option value="$PROJECT_DIR$/Tests/WithdrawalTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/FundTransfer.py" />
+        <option value="$PROJECT_DIR$/Tests/FundTransferTest.py" />
+        <option value="$PROJECT_DIR$/Tests/DepositeTest.py" />
+        <option value="$PROJECT_DIR$/Tests/BalanceEnquiryTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/BalanaceEnquiry.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/MiniStatement.py" />
+        <option value="$PROJECT_DIR$/Tests/MiniStatementTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/CostumizeStatement.py" />
+        <option value="$PROJECT_DIR$/Tests/CustumizeStatementTest.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/registration.py" />
+        <option value="$PROJECT_DIR$/Tests/cmdoption.py" />
+        <option value="$PROJECT_DIR$/lib/pageObjects/example.py" />
+        <option value="$PROJECT_DIR$/Tests/RegisterTest.py" />
+        <option value="$PROJECT_DIR$/Tests/NewAccountTest.py" />
+        <option value="$PROJECT_DIR$/Tests/__init__.py" />
+        <option value="$PROJECT_DIR$/Tests/test_DeleteAccounttest.py" />
+        <option value="$PROJECT_DIR$/Tests/test.WithdrawalTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_DepositeTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_BalanceEnquiryTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_CustumizeStatementTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_EditCustomserTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_FundTransferTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_loginTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_LogoutTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_MiniStatementTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_NewAccountTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_RegisterTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_DeleteAccountTest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_DeleteCustomerTest.py" />
+        <option value="$PROJECT_DIR$/conftest.py" />
+        <option value="$PROJECT_DIR$/Tests/test_EditAccountTest.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="DatabaseConnector" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="pageObjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PyTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PyTest" type="462c0819:PsiDirectoryNode" />
+              <item name="Tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/website" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\varsha_patke\PycharmProjects\PyTest\.pytest_cache\v" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.py.test in test_BalanceEnquiryTest.py">
+    <configuration name="LoginTest" type="PythonConfigurationType" factoryName="Python">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tests/LoginTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="databseconnector" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lib/DatabaseConnector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lib/DatabaseConnector/databseconnector.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unnamed" type="tests" factoryName="py.test">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="D:\Python\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in LogoutTest.py" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/LogoutTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in Tests" type="tests" factoryName="py.test" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests/.pytest_cache" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_BalanceEnquiryTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_BalanceEnquiryTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_NewAccountTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_NewAccountTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_RegisterTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_RegisterTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="py.test in test_WithdrawalTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="PyTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_WithdrawalTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.py.test in Tests" />
+      <item itemvalue="Python.LoginTest" />
+      <item itemvalue="Python tests.py.test in LogoutTest.py" />
+      <item itemvalue="Python tests.Unnamed" />
+      <item itemvalue="Python tests.py.test in test_NewAccountTest.py" />
+      <item itemvalue="Python tests.py.test in test_WithdrawalTest.py" />
+      <item itemvalue="Python tests.py.test in test_RegisterTest.py" />
+      <item itemvalue="Python.databseconnector" />
+      <item itemvalue="Python tests.py.test in test_BalanceEnquiryTest.py" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.py.test in test_BalanceEnquiryTest.py" />
+        <item itemvalue="Python.databseconnector" />
+        <item itemvalue="Python tests.py.test in test_RegisterTest.py" />
+        <item itemvalue="Python tests.py.test in test_WithdrawalTest.py" />
+        <item itemvalue="Python tests.py.test in test_NewAccountTest.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f675c7a5-78a8-46e4-80e1-1b9967362077" name="Default" comment="" />
+      <created>1534916608577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534916608577</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="py_test_in_test_EditAccountTest_py - 2018.09.06 at 16h 16m 01s.xml">
+      <configuration name="py.test in test_EditAccountTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_EditCustomserTest_py - 2018.09.06 at 16h 16m 36s.xml">
+      <configuration name="py.test in test_EditCustomserTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_FundTransferTest_py - 2018.09.06 at 16h 17m 08s.xml">
+      <configuration name="py.test in test_FundTransferTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_loginTest_py - 2018.09.06 at 16h 18m 14s.xml">
+      <configuration name="py.test in test_loginTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_LogoutTest_py - 2018.09.06 at 16h 18m 46s.xml">
+      <configuration name="py.test in test_LogoutTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_MiniStatementTest_py - 2018.09.06 at 16h 19m 19s.xml">
+      <configuration name="py.test in test_MiniStatementTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_NewAccountTest_py - 2018.09.06 at 16h 19m 57s.xml">
+      <configuration name="py.test in test_NewAccountTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_WithdrawalTest_py - 2018.09.06 at 16h 20m 39s.xml">
+      <configuration name="py.test in test_WithdrawalTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_RegisterTest_py - 2018.09.06 at 16h 21m 53s.xml">
+      <configuration name="py.test in test_RegisterTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="py_test_in_test_BalanceEnquiryTest_py - 2019.01.08 at 15h 20m 35s.xml">
+      <configuration name="py.test in test_BalanceEnquiryTest.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913645" visible="true" weight="0.2154213" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5063593" side_tool="true" weight="0.32830626" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32946634" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936407" weight="0.32830626" />
+      <window_info id="Structure" order="1" sideWeight="0.50086355" side_tool="true" weight="0.23608904" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32946634" />
+      <window_info id="Favorites" order="2" sideWeight="0.50086355" side_tool="true" weight="0.23608904" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920508" weight="0.39907193" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913645" visible="true" weight="0.23608904" />
+      <window_info id="Structure" order="1" sideWeight="0.50086355" side_tool="true" weight="0.23608904" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32946634" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4936407" visible="true" weight="0.32830626" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32946634" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49920508" weight="0.39907193" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32946634" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5063593" side_tool="true" weight="0.32830626" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32946634" />
+      <window_info id="Favorites" order="2" sideWeight="0.50086355" side_tool="true" weight="0.23608904" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/editcustomer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DeleteCustomerTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/EditAccountTest.py" />
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/DeleteAccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DeleteAccounttest.py" />
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/deletecustomer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/_pytest/python.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="163" selection-start-line="163" selection-end-line="163" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/WithdrawalTest.py" />
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/Withdrawal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/FundTransfer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/DepositeTest.py" />
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/Deposite.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/FundTransferTest.py" />
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/MiniStatement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="40" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/MiniStatementTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/EditCustomserTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/cmdoption.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/CustumizeStatementTest.py" />
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/example.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/pluggy/hooks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="257" selection-start-line="257" selection-end-line="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/newaccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="58" column="12" selection-start-line="58" selection-start-column="12" selection-end-line="58" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/RegisterTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/.pytest_cache/.pytest_cache/README.md" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/pip-10.0.1-py3.7.egg/pip/_internal/req/req_uninstall.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1142">
+          <caret line="116" column="26" selection-start-line="116" selection-start-column="26" selection-end-line="116" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/BalanceEnquiryTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/LogoutTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/NewAccountTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/test.WithdrawalTest.py" />
+    <entry file="file://$PROJECT_DIR$/Tests/test_EditCustomserTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_FundTransferTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_loginTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_LogoutTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_MiniStatementTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_NewAccountTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_RegisterTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="90" selection-start-line="26" selection-start-column="90" selection-end-line="26" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_DeleteCustomerTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/registration.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_WithdrawalTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_CustumizeStatementTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_DeleteAccountTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="97" selection-start-line="6" selection-start-column="97" selection-end-line="6" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_DepositeTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pytest">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/DatabaseConnector/databseconnector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="22" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/BalanaceEnquiry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="43" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/CostumizeStatement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_BalanceEnquiryTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/pageObjects/editaccount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests/test_EditAccountTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
